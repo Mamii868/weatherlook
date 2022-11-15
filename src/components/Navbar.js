@@ -1,4 +1,3 @@
-import './Navbar.css';
 import { Disclosure} from '@headlessui/react'
 
 function Navbar() {
